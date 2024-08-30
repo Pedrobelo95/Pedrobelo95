@@ -7,7 +7,8 @@ Meu nome é Pedro Belo 👈👀
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
 
-![](https://github.com/user-attachments/assets/9720158d-9090-46e7-bb24-050f41e8f7b5)
+![](https://github.com/user-attachments/assets/e8b52746-351a-46c6-8b7c-cc715f0dc4cc)
+
 
 <!---
 Pedrobelo95/Pedrobelo95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
